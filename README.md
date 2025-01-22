@@ -83,4 +83,32 @@ The Student Management System is a console-based application designed to manage 
    - View all students.
 3. Follow the prompts to complete the chosen operation.
 
+ ***
+
+## Task - Quiz Application
+
+### Description
+The Quiz Application is a console-based program that presents multiple-choice quiz questions to the user. It includes a timer for each question, tracks the user's score, and displays the final results at the end of the quiz.
+
+### Features
+- **Quiz Questions and Options**: Stores and displays multiple-choice questions and options.
+- **Timer**: Limits the time to answer each question.
+- **Question Display**: Presents one question at a time.
+- **Answer Submission**: Allows users to select and submit their answer.
+- **Score Calculation**: Tracks the user's score based on correct answers.
+- **Result Screen**: Displays the final score and a summary of correct/incorrect answers.
+
+### How to Run
+1. Navigate to the directory containing the `Quiz.java` file.
+2. Compile the Java file:
+    ```sh
+    javac Quiz.java
+    ```
+3. Run the compiled class:
+    ```sh
+    java Quiz
+    ```
+
+Enjoy the Quiz Application!
+
 
