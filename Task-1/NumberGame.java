@@ -52,17 +52,3 @@ public class NumberGame {
 }
 
 
-// Number of Attempts:
-
-// The player has a maximum of 10 attempts to guess the correct number.
-// If the player reaches the maximum number of attempts without guessing the correct number, the game informs the player and reveals the target number.
-// Scoring System:
-
-// The scoring system is not fully visible in the provided code, but typically, the score would be incremented based on the player's performance (e.g., fewer attempts might result in a higher score).
-// Game Rounds:
-
-// The game keeps track of the number of rounds played using the rounds variable.
-// After each round, the player is asked if they want to play again. If the player chooses "yes", a new round starts; otherwise, the game ends.
-// Game Over:
-
-// When the player decides not to play again, the game prints the total number of rounds played and the final score.
