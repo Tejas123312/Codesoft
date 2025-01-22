@@ -61,31 +61,9 @@ The ATM Transaction program is a simple console-based application that simulates
    - Enter `4` to exit the application.
 3. Follow the prompts to complete the chosen transaction.
 
-***
-
-## Task 4 - Student Management System
-
-### Description
-The Student Management System is a console-based application designed to manage student information. It allows users to perform various operations such as adding, updating, deleting, and viewing student records.
-
-### Features
-- **Add Student**: Allows the user to add a new student record with details such as name, age, and grade.
-- **Update Student**: Enables the user to update the details of an existing student record.
-- **Delete Student**: Provides the functionality to delete a student record from the system.
-- **View Students**: Displays a list of all student records currently in the system.
-
-### How to Use
-1. Run the program.
-2. Choose an option from the menu to perform the desired operation:
-   - Add a new student.
-   - Update an existing student.
-   - Delete a student.
-   - View all students.
-3. Follow the prompts to complete the chosen operation.
-
  ***
 
-## Task - Quiz Application
+## Task4 - Quiz Application
 
 ### Description
 The Quiz Application is a console-based program that presents multiple-choice quiz questions to the user. It includes a timer for each question, tracks the user's score, and displays the final results at the end of the quiz.
@@ -108,7 +86,30 @@ The Quiz Application is a console-based program that presents multiple-choice qu
     ```sh
     java Quiz
     ```
+***
 
-Enjoy the Quiz Application!
+## Task 5 - Student Management System
+
+### Description
+The Student Management System is a console-based application designed to manage student information. It allows users to perform various operations such as adding, updating, deleting, and viewing student records.
+
+### Features
+- **Add Student**: Allows the user to add a new student record with details such as name, age, and grade.
+- **Update Student**: Enables the user to update the details of an existing student record.
+- **Delete Student**: Provides the functionality to delete a student record from the system.
+- **View Students**: Displays a list of all student records currently in the system.
+
+### How to Use
+1. Run the program.
+2. Choose an option from the menu to perform the desired operation:
+   - Add a new student.
+   - Update an existing student.
+   - Delete a student.
+   - View all students.
+3. Follow the prompts to complete the chosen operation.
+
+
+
+
 
 
